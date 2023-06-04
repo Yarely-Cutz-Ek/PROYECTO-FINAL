@@ -213,5 +213,4 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
         'Cart' => Gloudemans\shoppingcart\Facades\Cart::class,
     ])->toArray(),
-
 ];
